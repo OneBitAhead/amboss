@@ -25,3 +25,4 @@ jobs:
         echo "GITHUB_SHA_SHORT=$GITHUB_SHA_SHORT"
         echo "MYSQL_DATABASE=$MYSQL_DATABASE"
         echo "MYSQL_ROOT_PASSWORD=$MYSQL_ROOT_PASSWORD"
+        env
